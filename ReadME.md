@@ -6,5 +6,5 @@ The project is a code refactor for the Horiseon website. With refractoing the pa
 
 <h3> Link: </h3>
 
-* https://github.com/channy3687/channy3687.Horiseo.git
-* https://channy3687.github.io/channy3687.Horiseo/
+* [Github Link](https://github.com/channy3687/channy3687.Horiseo.git)
+* [Horiseon website](https://channy3687.github.io/channy3687.Horiseo/)

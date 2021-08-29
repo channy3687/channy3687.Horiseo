@@ -14,4 +14,4 @@ The project is a code refactor for the Horiseon website. With refractoing the pa
 * [Github Link](https://github.com/channy3687/channy3687.Horiseo.git)
 * [Horiseon website](https://channy3687.github.io/channy3687.Horiseo/)
 
-<img src = "https://channy3687.github.io/channy3687.Horiseo/"/> atl= "github"
+![Horiseon](Horiseo.html)
